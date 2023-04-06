@@ -107,5 +107,5 @@ x=int(input("enter a number:"))
 factorial(x)
 '''
 
-#PROGRAM-----VIEW,INSERT,DELETE,REPLACE
+
 
